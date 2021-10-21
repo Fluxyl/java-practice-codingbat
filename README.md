@@ -1,7 +1,7 @@
-# The Java Zone
+# Java Practice w/ CodingBat!
 ## CodingBat Branch
-A branch specifically made to house the java practice i've done from CodingBat.
+A branch specifically made to hold all of the code I've written in Java to solve the problems over on CodingBat.
 
-Also decided to make a mini-project to create a Docker container.
-    Using MapMain and MapBully, along with OpenJDK 11. 
-    Check `Dockerfile` for more info.
+Code is mostly written by me, but since this is a practice site, there's a high possibility of someone else with similar code existing on GitHub.
+
+Take a browse through to see some examples of the problem sets on CodingBat.
