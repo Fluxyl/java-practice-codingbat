@@ -1,5 +1,7 @@
 # The Java Zone
-Welcome to the Java zone! This is a compilation of any kind of tutorials/projects/one-off things i've done using the Java programming language.
+## CodingBat Branch
+A branch specifically made to house the java practice i've done from CodingBat.
 
-I plan on splitting each tutorial, project, or practice into separate branches. 
-I will also have a special branch that contains Docker files as well.
+Also decided to make a mini-project to create a Docker container.
+    Using MapMain and MapBully, along with OpenJDK 11. 
+    Check `Dockerfile` for more info.
